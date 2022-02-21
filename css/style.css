@@ -1,0 +1,13 @@
+.text_center{
+    text-align: center;
+}
+
+.bg_color_rgb_170-221-255{
+    background-color: rgb(170, 221, 255);
+}
+
+.clearfix::after{
+    content: "";
+    display: table;
+    clear: both;
+}
